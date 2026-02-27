@@ -6,7 +6,7 @@
 The goal is simple:
 > Gain root access on a vulnerable virtual machine by exploiting security weaknesses.
 
-This is a documented step by step proccess to gain root access
+This is a documented step by step proccess to gain root access.
 
 ## 🎯 Objectives
 
